@@ -1,4 +1,5 @@
 # MGCNRF
+This code is partly borrowed from LAGCN.
 ### Environment Requirement
 
 The code has been tested under Python 3.6.8. 
